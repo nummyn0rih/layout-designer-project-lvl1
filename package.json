@@ -1,0 +1,25 @@
+{
+  "name": "layout-designer-project-lvl1",
+  "version": "1.0.0",
+  "description": "![Actions Status](/workflows/hexlet-check/badge.svg)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint": "^13.7.2",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx stylelint \"style.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nummyn0rih/layout-designer-project-lvl1.git"
+  },
+  "author": "Ivan Malshchukov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nummyn0rih/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/nummyn0rih/layout-designer-project-lvl1#readme"
+}
